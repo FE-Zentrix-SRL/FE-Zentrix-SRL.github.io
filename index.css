@@ -1,0 +1,12 @@
+:root {
+    background: #181f29;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /** TEMP **/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow-x: hidden;
+}
